@@ -1,15 +1,20 @@
-make sure they start with a number, then whatever the name is then price and then the dollar sign spaced out
-just replicate examples below $
+make sure of the order of the item $
+they start with the number of the item $
+then whatever the name is then price $
+and then the dollar sign spaced out $
+just replicate example below $
+
+[number of item] - [name of the item] [price] [$] $ 
 
 1 - Car 10 $
 2 - doll 20 $
 3 - something 40 $
-4 - something else 50 $
-531 - something else else 60 $
-415 - somtheing very unique 20 $
-12312 - this is a long sentence just to make sure that this works $
-21214 - akjfdhakjh $
-4124 - here is another sentence just to make sure this works 1000 $
-1241 - something $
-20003 - fack $
-20 - something $
+4 - suit 50 $
+5 - apple 60 $
+6 - jacket 20 $
+7 - mac and cheese 3 $
+8 - Computer 300 $
+9 - here is another sentence just to make sure this works 1000 $
+10 - something else 10 $
+11 - something 40 $
+12 - something 80 $
