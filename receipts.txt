@@ -1,0 +1,10 @@
+Anything will be printed out here
+
+Sold a item# 531 [Product does not exist] by Cash
+Sold a item# 531 [something else else 60 $ ] by Cash
+Sold a item# 10 [] by Cash
+Sold a item# 10 [] by Cash
+Sold a item# 10 [] by Card
+Sold a item# 415 [somtheing very unique 20 $ ] by Cash
+Sold a item# 12412 [Product does not exist] by Cash
+Sold a item# 13 [Product does not exist] by Cash

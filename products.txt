@@ -1,0 +1,15 @@
+make sure they start with a number, then whatever the name is then price and then the dollar sign spaced out
+just replicate examples below $
+
+1 - Car 10 $
+2 - doll 20 $
+3 - something 40 $
+4 - something else 50 $
+531 - something else else 60 $
+415 - somtheing very unique 20 $
+12312 - this is a long sentence just to make sure that this works $
+21214 - akjfdhakjh $
+4124 - here is another sentence just to make sure this works 1000 $
+1241 - something $
+20003 - fack $
+20 - something $
